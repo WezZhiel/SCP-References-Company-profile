@@ -1,2 +1,2 @@
-# company-profile-1
-Website Company Profile
+# SCP Company profile
+School Project using SCP Foundation as the references
