@@ -3,8 +3,8 @@ AOS.init();
 new Typed("#typed", {
     strings: [
         "We Secure. We Contain. We Protect.",
-        "We Keep Humanity Safe",
-        "May the o5 council save us",
+        "We Keep Humanity Safe.",
+        "May the o5 council save us.",
     ],
     typeSpeed: 100,
     delaySpeed: 300,
